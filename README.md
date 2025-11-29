@@ -41,4 +41,4 @@
 ---
 
 ### 📊 GitHub Analytics
-<img src="https://github-readme-stats.vercel.app/api?username=KMU-junha&show_icons=true&theme=radical" alt="My GitHub Stats" />
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=KMU-junha&show_icons=true&theme=radical&t=1)
