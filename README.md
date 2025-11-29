@@ -41,4 +41,4 @@
 ---
 
 ### 📊 GitHub Analytics
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=KMU-junha&show_icons=true&theme=radical&t=1)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KMU-junha&theme=radical)](https://git.io/streak-stats)
