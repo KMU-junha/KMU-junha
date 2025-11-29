@@ -40,5 +40,5 @@
 
 ---
 
-### 📊 GitHub Analytics
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KMU-junha&theme=radical)](https://git.io/streak-stats)
+### 👁️ Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=KMU-junha&color=green&style=flat-square)
