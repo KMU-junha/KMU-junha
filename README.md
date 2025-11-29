@@ -33,12 +33,12 @@
 #### 🤖 Featured Repositories
 | Project | Description | Tech |
 | :--- | :--- | :--- |
-| **[ROS2-Sound-Source-Localization](https://github.com/YOUR_GITHUB_ID/ROS2-Sound-Source-Localization)** | 🔊 TDOA based real-time sound source tracking robot with Kalman Filter & Clustering. | `ROS2` `Python` `Jetson` |
-| **[State-Estimation-and-Navigation-Math](https://github.com/YOUR_GITHUB_ID/State-Estimation-and-Navigation-Math)** | 📐 Mathematical derivation & implementation of Kalman Filter, Euler Angles, and Quaternions. | `NumPy` `Matplotlib` |
-| **[IoT-Blockchain-Energy-Platform](https://github.com/YOUR_GITHUB_ID/IoT-Blockchain-Energy-Platform)** | ⚡ Hardware-based P2P energy trading prototype using Raspberry Pi & Sensors. | `RPi` `WebSocket` `Flask` |
-| **[Blockchain-P2P-Energy-Trading](https://github.com/YOUR_GITHUB_ID/Blockchain-P2P-Energy-Trading)** | 🌍 Large-scale multi-agent simulation for RE100/PPA business model analysis. | `NetLogo` `Simulation` |
+| **[ROS2-Sound-Source-Localization](https://github.com/KMU-junha/ROS2-Sound-Source-Localization)** | 🔊 TDOA based real-time sound source tracking robot with Kalman Filter & Clustering. | `ROS2` `Python` `Jetson` |
+| **[State-Estimation-and-Navigation-Math](https://github.com/KMU-junha/State-Estimation-and-Navigation-Math)** | 📐 Mathematical derivation & implementation of Kalman Filter, Euler Angles, and Quaternions. | `NumPy` `Matplotlib` |
+| **[IoT-Blockchain-Energy-Platform](https://github.com/KMU-junha/IoT-Blockchain-Energy-Platform)** | ⚡ Hardware-based P2P energy trading prototype using Raspberry Pi & Sensors. | `RPi` `WebSocket` `Flask` |
+| **[Blockchain-P2P-Energy-Trading](https://github.com/KMU-junha/Blockchain-P2P-Energy-Trading)** | 🌍 Large-scale multi-agent simulation for RE100/PPA business model analysis. | `NetLogo` `Simulation` |
 
 ---
 
 ### 📊 GitHub Analytics
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KMU-junha&show_icons=true&theme=radical)
