@@ -41,4 +41,4 @@
 ---
 
 ### 📊 GitHub Analytics
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KMU-junha&show_icons=true&theme=radical)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=KMU-junha&show_icons=true&theme=radical)
