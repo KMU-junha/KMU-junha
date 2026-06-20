@@ -1,7 +1,7 @@
 # Hi there, I'm an Aspiring Research Engineer! 👋
 
 ### 🎓 Undergraduate Student, School of Electrical Engineering @ Kookmin Univ.
-> **Focus:** Signal Processing, Wireless Communication(MIMO/ISAC), and Robotics(SLAM/Navigation).
+> **Focus:** Data-Driven System Modeling, Symbolic Regression, Mathematical Optimization, and Reliable Hardware Design.
 
 ---
 
@@ -32,9 +32,9 @@
 
 ### 🚀 Research & Projects
 
-#### 📡 Integrated Sensing & Communication (ISAC) Interest
-* **Goal:** Applying **TDOA/DOA estimation algorithms** (used in robotics) to **MIMO wireless systems** for high-precision localization.
-* **Key Interest:** Beamforming, Channel Estimation, 6G Network.
+#### 🔍 Data-Driven Modeling & System Identification Interest
+* **Goal:** Extracting interpretable mathematical models (Governing Equations) from noisy sensor data and optimizing complex engineering systems.
+* **Key Interest:** Symbolic Regression, Sparse Identification (SINDy), Bayesian Optimization, Fail-Safe Hardware Design.
 
 #### 🏆 Featured Projects & Competitions
 | Project | Description | Tech |
