@@ -19,12 +19,14 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Hardware Design](https://img.shields.io/badge/Hardware-Fail--Safe%20Design-lightgrey?style=for-the-badge)
 
-**Math, Algorithm & AI**
+**Math & Algorithm**
 ![Kalman Filter](https://img.shields.io/badge/Kalman%20Filter-Process%20Estimation-blue?style=for-the-badge)
 ![TDOA](https://img.shields.io/badge/TDOA-Sound%20Localization-red?style=for-the-badge)
 ![NetLogo](https://img.shields.io/badge/NetLogo-Agent%20Simulation-orange?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-SINDy%20%7C%20GPR-yellow?style=for-the-badge)
-![Optimization](https://img.shields.io/badge/Optimization-Genetic%20Algorithm%20%7C%20BO-purple?style=for-the-badge)
+![SINDy](https://img.shields.io/badge/SINDy-Sparse%20Regression-yellow?style=for-the-badge)
+![GPR](https://img.shields.io/badge/GPR-Surrogate%20Model-yellowgreen?style=for-the-badge)
+![Genetic Algorithm](https://img.shields.io/badge/Genetic%20Algorithm-Symbolic%20Search-purple?style=for-the-badge)
+![Bayesian Optimization](https://img.shields.io/badge/Bayesian%20Optimization-Auto%20Tuning-magenta?style=for-the-badge)
 
 ---
 
