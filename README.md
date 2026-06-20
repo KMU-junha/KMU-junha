@@ -37,7 +37,7 @@
 #### 🏆 Featured Projects & Competitions
 | Project | Description | Tech |
 | :--- | :--- | :--- |
-| **[Physics-Equation-Builder](https://github.com/KMU-junha/Physics-Equation-Builder)** | 🧮 Dual-track symbolic regression framework for governing equation discovery. **(Silver Prize)** | `Antigravity` `SINDy` `GA` `GPR` |
+| **[Physics-Equation-Builder](https://github.com/KMU-junha/Physics-Equation-Builder)** | 🧮 Dual-track symbolic regression framework for governing equation discovery. **(Silver Prize)** | `Antigravity` `Python` `SINDy` `GA` `GPR` |
 | **[PCM-Swelling-Battery-Safety](https://github.com/KMU-junha/PCM-Swelling-Battery-Safety)** | 🔋 Non-powered battery fire prevention device using PCM and swelling pressure. **(Silver Prize)** | `Hardware Design` `Fail-Safe` |
 | **[ROS2-Sound-Source-Localization](https://github.com/KMU-junha/ROS2-Sound-Source-Localization)** | 🔊 TDOA based real-time sound source tracking robot with Kalman Filter & Clustering. | `ROS2` `Python` `Jetson` |
 | **[IoT-Blockchain-Energy-Platform](https://github.com/KMU-junha/IoT-Blockchain-Energy-Platform)** | ⚡ Hardware-based P2P energy trading prototype using Raspberry Pi & Sensors. | `RPi` `WebSocket` `Flask` |
